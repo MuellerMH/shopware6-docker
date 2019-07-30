@@ -1,8 +1,15 @@
 # ShopWare6 Docker
+
 Easy way to setup your ShopWare6 Docker enviroment
 
+<hr />
+<p align="center"> [ Demo ] — [ Documentation ] </p>
+<p align="center">
+  <img src="./.img/logo.gif" alt="NullLogic logo">
+</p>
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -16,6 +23,7 @@ Contributions are what make the open source community such an amazing place to b
 <hr />
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -23,18 +31,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <hr />
 
 <!-- DONATE -->
-## Donate
 
+## Donate
 
 Support by PayPal:
 
 <p><a href="https://www.paypal.me/vladimirlukyanov">
-    <img src="./img/paypal-button-png-10.png" height="40" />
+    <img src="./.img/paypal-button-png-10.png" height="40" />
 </a></p>
 
 Become a Patreon:
 
 <a href="https://www.patreon.com/vladimirlukyanov">
-    <img src="./img/patreon-button-png-10.png" height="40" />
+    <img src="./.img/patreon-button-png-10.png" height="40" />
 </a>
-
