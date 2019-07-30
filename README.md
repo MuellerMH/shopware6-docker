@@ -45,3 +45,5 @@ Become a Patreon:
 <a href="https://www.patreon.com/vladimirlukyanov">
     <img src="./.img/patreon-button-png-10.png" height="40" />
 </a>
+
+<p style="text-align:center"> Mit <span style="color:red;">&#9829</span> gemacht </p>
