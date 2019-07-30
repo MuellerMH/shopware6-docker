@@ -48,4 +48,4 @@ Become a Patreon:
 
 <hr>
 
-<p align="center"> Mit <span color="red">&#9829</span> gemacht </p>
+<p align="center"> Mit <font color="red">&#9829</font> gemacht </p>
