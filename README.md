@@ -48,4 +48,4 @@ Become a Patreon:
 
 <hr>
 
-<p align="center"> Mit <img src="./.img/heart.png" alt="mit liebe gemacht"> gemacht </p>
+<p align="center"><img src="./.img/heart.png" alt="mit liebe gemacht"></p>
